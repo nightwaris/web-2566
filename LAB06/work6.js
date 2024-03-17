@@ -12,7 +12,7 @@ class App extends React.Component {
     );
     footer = (
         <div>
-            By 643020659-1 อันดา อินทะเนตร<br />
+            By 643020642-8 Warissara Phanrod<br />
             College of Computing, Khon Kaen University
         </div>
     );
